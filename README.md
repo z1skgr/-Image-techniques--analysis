@@ -27,4 +27,4 @@
 
 
 # How to run
-Run scripts in matlab. Photos have been used in random. They are chosen esential for the purpose of the projects. New pictures can be chosen if wanted
+Run scripts in matlab. Photos have been used in random. They are chosen essential for the purpose of the projects. New pictures can be chosen if wanted
