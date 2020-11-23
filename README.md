@@ -1,29 +1,29 @@
 # Digital Image Processing
  matlab image processing
 
-# LAB 1 Content
-**COLOR MODELS**
-1)RGB model
-2)Pictures in Shades of Grey	
-3)HSI model
-4)White balance
+# LAB 1 Content <br />
+**COLOR MODELS** <br />
+1)RGB model. <br />
+2)Pictures in Shades of Grey. <br />	
+3)HSI model. <br />
+4)White balance. <br />
 
-# LAB 2 Content
-**SIMPLE TECHNICALS IN IMAGE PROCESSING**
-Histogram
-Spatial filters
-Smoothing filters
-Sharpening filters
+# LAB 2 Content <br />
+**SIMPLE TECHNICALS IN IMAGE PROCESSING** <br />
+1)Histogram. <br />
+2)Spatial filters. <br />
+3)Smoothing filters. <br />
+4)Sharpening filters. <br />
 
-# LAB3 Content
-**2-D FOURIER TRANSFORMATION IN IMAGE**
-1)Discrete Fourier transformation
-2)Fourier transformation presentation as image
+# LAB3 Content <br />
+**2-D FOURIER TRANSFORMATION IN IMAGE** <br />
+1)Discrete Fourier transformation. <br />
+2)Fourier transformation presentation as image. <br />
 
-# LAB4 Content
-**Image Restoration Techniques**
-1)Wiener Filter(Least Mean Square Filter)
-2)Constrained Least Squares Restoration
+# LAB4 Content <br />
+**Image Restoration Techniques** <br />
+1)Wiener Filter(Least Mean Square Filter). <br />
+2)Constrained Least Squares Restoration. <br />
 
 
 # How to run
