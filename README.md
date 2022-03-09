@@ -77,20 +77,21 @@ For each function, see help in Matlab
 MATLAB environment (or any software using language that is mostly compatible with MATLAB, see [GNU Octave](https://www.gnu.org/software/octave/index)
 
 ## How to run
-Run scripts in matlab. Photos have been used in random. They are chosen essential for the purpose of the projects. 
+* Navigate path of the script you want to execute
+* run(scriptname)
 
-New pictures can be chosen if wanted
+or 
+* Execute Run as script
+
+
+Photos have been used in random chosen for the project purposes[^1]. 
+
+
 
 ## Acknowledgments
 Projects were created for the requirements of the lesson Digital Image Processing
 
-
-
-
-
-
-
-
+[^1]: New pictures can be chosen if wanted
 
 
 
