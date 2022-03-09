@@ -1,4 +1,4 @@
-# Digital Image Processing
+# Image techniques
 > Techniques for processing images using matlab desing processes
  
   ## Table of contents
