@@ -40,10 +40,10 @@
    * imhist
 2. Convert image to black & white
    * inspect histogram for threshold values
-3. Median and Gaussian filters on brain.gif 
+3. Median and Gaussian filters on [brain.gif](https://github.com/z1skgr/MATLAB-image-techniques--analysis/issues/1#issue-1164065378)
    * medfilt2
    * fspecial & imfilter
-4. Salt & pepper on brain.gif
+4. Salt & pepper on [brain.gif](https://github.com/z1skgr/MATLAB-image-techniques--analysis/issues/1#issue-1164065378)
    * imnoise
 5. Noise reduction
    * median filter 
