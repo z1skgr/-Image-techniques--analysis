@@ -40,7 +40,7 @@
    * imhist
 2. Convert image to black & white
    * inspect histogram for threshold values
-3. Median and Gaussian filters on brain.gif
+3. Median and Gaussian filters on brain.gif 
    * medfilt2
    * fspecial & imfilter
 4. Salt & pepper on brain.gif
@@ -54,7 +54,7 @@
 1. Discrete Fourier transformation. 
 2. Fourier transformation presentation as image. 
 <br><br>
-1. Fourier Transformation on tools.bmp
+1. Fourier Transformation on [tools.bmp](https://github.com/z1skgr/MATLAB-image-techniques--analysis/issues/2#issue-1164068316)
    * fft2
 2.
 3. Fourier Transformation
