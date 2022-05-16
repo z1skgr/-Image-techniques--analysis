@@ -78,10 +78,10 @@ MATLAB environment (or any software using language that is mostly compatible wit
 
 ## How to run
 * Navigate path of the script you want to execute
-* run(scriptname)
+* run(`scriptname.m`)
 
 or 
-* Execute Run as script
+* Execute `Run as script`
 
 
 Photos have been used in random chosen for the project purposes[^1]. 
